@@ -1,0 +1,4 @@
+- 👋 Hey, Ich bin @datapack3t
+- 👀 Ich bin interessiert an Systemen in der Sprache PHP & JavaScript 
+- 🌱 Ich lerne derzeit PHP, HTML & JavaScript
+- 📫 Discord : datapack3t#1000
