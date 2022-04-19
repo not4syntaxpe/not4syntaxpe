@@ -1,4 +1,4 @@
-# datapack3t
+# SyntaxPE
 Hey. Welcome to my Profile 💕
 
 ---
@@ -12,4 +12,8 @@ Hey. Welcome to my Profile 💕
 ---
 
 ## Get in Touch
-- Discord: datapack3t#3391
+- Discord: SyntaxPE#9276
+
+[![Discord](https://discord.c99.nl/widget/theme-1/730067951868182529.png)](#)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r3pt1s&layout=compact)]
