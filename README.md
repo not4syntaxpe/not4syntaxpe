@@ -1,17 +1,4 @@
-# SyntaxPE
-Hey. Welcome to my Profile 💕
-
----
-
-## My values
-🌟 Expression as authentic self<br>
-💖 Safety and trust<br>
-🍏 Beginner<br>
-🙌 Shared understanding and consensus
-
----
-
-## Get in Touch
+<img src="https://github-readme-stats.vercel.app/api?username=not4syntaxpe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [![Discord](https://discord.c99.nl/widget/theme-1/730067951868182529.png)](#)
 
