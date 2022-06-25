@@ -12,7 +12,6 @@ Hey. Welcome to my Profile 💕
 ---
 
 ## Get in Touch
-- Discord: SyntaxPE#9276
 
 [![Discord](https://discord.c99.nl/widget/theme-1/730067951868182529.png)](#)
 
